@@ -1,0 +1,9 @@
+# Release notes ANG03
+
+Build badge: ![pipeline](https://%s/ang03-image.png)
+
+Upstream spec: [spec](https://%s/ang03-link)
+
+ANG03_OOB_MARKER_9f3c1d2b7a
+prr-ang03-1790842948.testingboxes.com
+prr-ang03-1790842948.testingboxes.com
